@@ -1,0 +1,5 @@
+/* Write your CSS here */
+.inputElements {
+  display: flex;
+  flex-direction: column;
+}

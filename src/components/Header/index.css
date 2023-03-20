@@ -1,0 +1,9 @@
+/* Write your CSS here */
+.Header-bg {
+  background-color: #e2e8f0;
+  background-size: cover;
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
